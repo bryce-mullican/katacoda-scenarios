@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Background"
+apt install apache2
