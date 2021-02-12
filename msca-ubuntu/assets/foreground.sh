@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Foreground"
+echo "apache2"
